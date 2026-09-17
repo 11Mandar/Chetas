@@ -1,0 +1,3 @@
+Sep 17 08:35:10 linux-eval-station sshd[28419]: Accepted publickey for evaluator from 10.180.250.77 port 48291 ssh2: RSA SHA256:489fba712
+Sep 17 08:35:12 linux-eval-station sudo: evaluator : TTY=pts/0 ; PWD=/home/evaluator ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Sep 17 08:35:14 linux-eval-station kernel: [ 4812.192] [UFW BLOCK] IN=eth0 OUT= MAC=00:11:22:33:44:55:66:77:88:99:aa:bb:08:00 SRC=203.0.113.88 DST=10.180.250.77 LEN=40 TOS=0x00 PREC=0x00 TTL=243 ID=54321 PROTO=TCP SPT=51234 DPT=22 WINDOW=1024 RES=0x00 SYN URGP=0
